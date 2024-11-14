@@ -1,8 +1,13 @@
+import { HamburgerMenu } from '../HamburgerMenu';
+import { HeaderContainer, Logo } from './styles';
+import { SearchButton } from '../SearchButton';
+
 export const MainHeader = () => {
   return (
-    <div className="header">
-      <h1>Header</h1>
-      <p>My supercool header</p>
-    </div>
+    <HeaderContainer>
+      <HamburgerMenu />
+      <Logo src="src/assets/logo.png" alt="logo" />
+      <SearchButton />
+    </HeaderContainer>
   );
 };
