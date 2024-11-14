@@ -1,9 +1,9 @@
-import { MainHeader } from "./Components/MainHeader/index.tsx";
+import { Cardapio } from "./templates/Cardapio/index.tsx";
 
 function App() {
   return (
     <>
-      <MainHeader />
+      <Cardapio />
     </>
   );
 }
