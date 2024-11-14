@@ -12,6 +12,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@babel/core": "^7.26.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "react": "^18.3.1",
@@ -19,6 +20,10 @@
     "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
+    "@babel/plugin-transform-typescript": "^7.25.9",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "@babel/preset-typescript": "^7.26.0",
     "@chromatic-com/storybook": "^3.2.2",
     "@eslint/js": "^9.13.0",
     "@storybook/addon-essentials": "^8.4.3",
