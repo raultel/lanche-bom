@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Logo = styled.img`
-  width: 35px;  // Ajuste o tamanho conforme necessário
-  height: auto;
+  width: auto;  // Ajuste o tamanho conforme necessário
+  height: 30px;
 `;
 
 export const HeaderContainer = styled.header`
