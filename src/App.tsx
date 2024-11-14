@@ -1,12 +1,12 @@
-import './App.css'
-import { MainHeader } from './Components/MainHeader/index.tsx'
+import "./App.css";
+import { MainHeader } from "./Components/MainHeader/index.tsx";
 
 function App() {
   return (
     <>
-      <MainHeader/>
+      <MainHeader />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
