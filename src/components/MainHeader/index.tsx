@@ -6,7 +6,7 @@ export const MainHeader = () => {
   return (
     <HeaderContainer>
       <HamburgerMenu />
-      <Logo src="src/assets/logo.png" alt="logo" />
+      <Logo src="src/assets/logo-alternativa.png" alt="Logo do lanche bom: Uma tampinha de garrafa vermelha contendo o texto Lanche Bom e Pastelaria" />
       <SearchButton />
     </HeaderContainer>
   );
