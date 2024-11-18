@@ -14,4 +14,3 @@ export const HamburgerMenu: React.FC = () => {
     </MenuContainer>
   );
 };
-

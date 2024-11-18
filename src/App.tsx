@@ -1,4 +1,4 @@
-import { Cardapio } from "./templates/Cardapio/index.tsx";
+import { Cardapio } from './templates/Cardapio/index.tsx';
 
 function App() {
   return (

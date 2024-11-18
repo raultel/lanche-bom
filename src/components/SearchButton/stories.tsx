@@ -1,7 +1,7 @@
-import { SearchButton } from ".";
+import { SearchButton } from '.';
 
 export default {
-  title: "SearchButton",
+  title: 'SearchButton',
   component: SearchButton,
 };
 

@@ -1,7 +1,7 @@
-import { MainHeader } from ".";
+import { MainHeader } from '.';
 
 export default {
-  title: "MainHeader",
+  title: 'MainHeader',
   component: MainHeader,
 };
 

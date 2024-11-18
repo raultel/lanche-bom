@@ -1,7 +1,7 @@
-import { HamburgerMenu } from ".";
+import { HamburgerMenu } from '.';
 
 export default {
-  title: "HamburgerMenu",
+  title: 'HamburgerMenu',
   component: HamburgerMenu,
 };
 

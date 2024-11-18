@@ -1,6 +1,6 @@
-import { MainHeader } from "../../components/MainHeader";
-import { ScrollJumpButton } from "../../components/ScrollJumpButton";
-import { ScrollJump, Wrapper } from "./styles";
+import { MainHeader } from '../../components/MainHeader';
+import { ScrollJumpButton } from '../../components/ScrollJumpButton';
+import { ScrollJump, Wrapper } from './styles';
 
 export const Cardapio: React.FC = () => {
   return (
@@ -14,4 +14,4 @@ export const Cardapio: React.FC = () => {
       </ScrollJump>
     </Wrapper>
   );
-}
+};
